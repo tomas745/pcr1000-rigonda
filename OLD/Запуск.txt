@@ -1,2 +1,0 @@
-cd "/Users/artemkazakov/Desktop/Документы/PhytonProject/pcr1000_ultimate"
-python3 pcr1000_ultimate.py
