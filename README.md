@@ -13,7 +13,7 @@ Python-приложение для управления приёмником **I
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/tomas745/pcr1000-rigonda)
    cd pcr1000-rigonda
    ```
 2. Установите зависимости и запустите:
